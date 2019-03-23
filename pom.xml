@@ -44,9 +44,10 @@
     <dependency>
       <groupId>org.hibernate.validator</groupId>
       <artifactId>hibernate-validator</artifactId>
-    </dependency>
-
+    </dependency> 
   </dependencies>
+  
+  
   <modules>
     <module>nretail-central-ability-employee-api</module>
     <module>nretail-central-ability-employee-web</module>
