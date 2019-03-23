@@ -21,11 +21,7 @@
 
   <dependencies>
     
-    <!-- swagger2 begin -->
-    <dependency>
-      <groupId>io.springfox</groupId>
-      <artifactId>springfox-swagger2</artifactId>
-    </dependency>
+    
 
     <dependency>
       <groupId>io.springfox</groupId>
